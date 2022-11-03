@@ -1,0 +1,46 @@
+h1{
+    color: red;
+}
+body {
+    background-color: blanchedalmond;
+}
+#header{
+    background-color:lightsalmon;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+#header blockquote{
+    background-color: yellow;
+}
+#soekarno {
+    font-style: italic;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+#link{
+    text-align: center;
+    color:blueviolet;
+}
+.B {
+    font-size: 650%;
+    color: blue;
+}
+img {
+    width: 25%;
+} 
+
+
